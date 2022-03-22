@@ -1,0 +1,27 @@
+{
+    "development": {
+        "username": "josue.ubilla",
+        "password": "f@Tgh166xZ",
+        "database": "moodle_4_ju",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": 0,
+        "logging": false
+    },
+    "test": {
+        "username": "josue.ubilla",
+        "password": "f@Tgh166xZ",
+        "database": "moodle_4_ju",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    },
+    "production": {
+        "username": "josue.ubilla",
+        "password": "f@Tgh166xZ",
+        "database": "moodle_4_ju",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    }
+}
